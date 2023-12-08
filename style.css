@@ -1,3 +1,8 @@
 body {
-    background-color: black;
-}
+    background-image: url(Static2.gif);
+    background-repeat: repeat;
+    text-align: center;
+  }
+  .main {
+    margin-top: 200px;
+  }
