@@ -6,3 +6,6 @@ body {
   .main {
     margin-top: 200px;
   }
+  img {
+    opacity: 0.8;
+  }
