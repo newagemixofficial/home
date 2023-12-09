@@ -5,6 +5,10 @@ body {
   }
   .main {
     margin-top: 200px;
+    color: #c1b492;
+    font-size: 13px;
+    letter-spacing: 8px;
+    margin-bottom: 20px;
   }
   img {
     opacity: 0.8;
