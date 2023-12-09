@@ -4,10 +4,10 @@ background-color: black;
     
   }
   .main {
-    background-image: url(Static2.gif);
+    background-image: url(static_new.gif);
     background-repeat: repeat;
     margin-top: 200px;
-    color: #c1b492;
+    color: #96c192;
     font-size: 13px;
     letter-spacing: 8px;
     margin-bottom: 20px;
@@ -16,3 +16,4 @@ background-color: black;
   img {
     opacity: 0.8;
   }
+  
